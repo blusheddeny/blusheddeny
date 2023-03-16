@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @blusheddeny
-- 👀 I’m interested in web development, CSS, UX/UI design and linux
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on interactive experiences with js, css and html
-- 📫 How to reach me girnid@gmail.com
+Hi there! My name is Ingrid Eddeny. I have the tech skills and creative mind. I focus on web development, wordpress, shopify and design.
 
 <!---
 blusheddeny/blusheddeny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
